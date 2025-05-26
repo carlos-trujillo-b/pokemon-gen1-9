@@ -17122,7 +17122,7 @@
   {
     "No": 351,
     "Branch_Code": "351_1",
-    "Original_Name": "Castform",
+    "Original_Name": "Castform_Sunny_Form",
     "Name": "Castform Sunny Form",
     "Generation": 3,
     "Height": 0.3,
@@ -17162,7 +17162,7 @@
   {
     "No": 351,
     "Branch_Code": "351_2",
-    "Original_Name": "Castform_Rainy",
+    "Original_Name": "Castform_Rainy_Form",
     "Name": "Castform Rainy Form",
     "Generation": 3,
     "Height": 0.3,
@@ -17202,7 +17202,7 @@
   {
     "No": 351,
     "Branch_Code": "351_3",
-    "Original_Name": "Castform",
+    "Original_Name": "Castform_Snowy_Form",
     "Name": "Castform Snowy Form",
     "Generation": 3,
     "Height": 0.3,
@@ -19042,7 +19042,7 @@
   {
     "No": 386,
     "Branch_Code": "386_1",
-    "Original_Name": "Deoxys",
+    "Original_Name": "Deoxys_Attack_Form",
     "Name": "Deoxys Attack Form",
     "Generation": 3,
     "Height": 1.7,
@@ -19082,7 +19082,7 @@
   {
     "No": 386,
     "Branch_Code": "386_2",
-    "Original_Name": "Deoxys_Defense",
+    "Original_Name": "Deoxys_Defense_Form",
     "Name": "Deoxys Defense Form",
     "Generation": 3,
     "Height": 1.7,
@@ -19122,7 +19122,7 @@
   {
     "No": 386,
     "Branch_Code": "386_3",
-    "Original_Name": "Deoxys",
+    "Original_Name": "Deoxys_Speed_Form",
     "Name": "Deoxys Speed Form",
     "Generation": 3,
     "Height": 1.7,

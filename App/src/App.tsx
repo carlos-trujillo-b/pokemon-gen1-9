@@ -1,15 +1,5 @@
-import datos from "./data/pokemon-stats.json";
-
 import "./App.css";
 import ImgPokePixelGroup from "./components/ImgPokePixelGroup/ImgPokePixelGroup";
-
-const images = import.meta.glob("/src/assets/pokemon/gen1/**/*.png", {
-  eager: true,
-});
-
-const imagesPaths = Object.entries(images).map(([path]) => {
-  return path;
-});
 
 /* const pokemonPath = imagesPaths.filter((image) =>
   image.includes("Mega_Venusaur")
@@ -31,13 +21,7 @@ function App() {
           }
         }); */
 
-  return (
-    <img
-      src="https://raw.githubusercontent.com/carlos-trujillo-b/pokemon-sprites/refs/heads/main/generation_1/Abra/11_Abra.png"
-      alt=""
-      style={{ imageRendering: "pixelated" }}
-    />
-  ); /* (
+  return <ImgPokePixelGroup />; /* (
           <div key={index}>
             <div>
               <ImgPokePixelGroup srcs={matchingImages} alt={pokemon.Name} />

@@ -1,21 +1,20 @@
 import ImgPokePixel from "../ImgPokePixel/ImgPokePixel";
+import data from "../../data/pokemon-stats.json";
 
-interface ImgPokePixelGroupProps {
-  srcs: string[];
-  scale?: number;
-  alt?: string;
-}
+import styles from "./ImgPokePixelGroup.module.css";
 
-const ImgPokePixelGroup = ({
-  srcs,
-  scale = 1.75,
-  alt,
-}: ImgPokePixelGroupProps) => {
-  console.log(srcs);
+const ImgPokePixelGroup = () => {
+  const dataFilterred = data.filter((pokemon) => pokemon.Generation === 3);
+
   return (
-    <div style={{ display: "flex", gap: "1rem" }}>
-      {srcs.map((src, index) => (
-        <ImgPokePixel key={index} src={src} scale={scale} alt={alt} />
+    <div className={styles.divGroup}>
+      {dataFilterred.map((pokemon) => (
+        <ImgPokePixel
+          key={pokemon.Branch_Code}
+          scale={1.5}
+          src={`https://raw.githubusercontent.com/carlos-trujillo-b/pokemon-sprites/refs/heads/main/${pokemon.Original_Name}/1_${pokemon.Original_Name}.png`}
+          alt={pokemon.Name}
+        />
       ))}
     </div>
   );
