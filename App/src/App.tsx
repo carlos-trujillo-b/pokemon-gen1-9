@@ -18,7 +18,7 @@ const imagesPaths = Object.entries(images).map(([path]) => {
 console.log(pokemonPath); */
 
 function App() {
-  const datosGen1 = datos.filter((pokemon) => pokemon.Generation === 1);
+  /*   const datosGen1 = datos.filter((pokemon) => pokemon.Generation === 1);
   return (
     <div className="flexPokemon">
       {datosGen1.map((pokemon, index) => {
@@ -29,9 +29,15 @@ function App() {
           if (regex.test(image)) {
             return image;
           }
-        });
+        }); */
 
-        return (
+  return (
+    <img
+      src="https://raw.githubusercontent.com/carlos-trujillo-b/pokemon-sprites/refs/heads/main/generation_1/Abra/11_Abra.png"
+      alt=""
+      style={{ imageRendering: "pixelated" }}
+    />
+  ); /* (
           <div key={index}>
             <div>
               <ImgPokePixelGroup srcs={matchingImages} alt={pokemon.Name} />
@@ -41,7 +47,7 @@ function App() {
         );
       })}
     </div>
-  );
+  ); */
 }
 
 export default App;

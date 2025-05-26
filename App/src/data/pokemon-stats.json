@@ -14842,7 +14842,7 @@
   {
     "No": 302,
     "Branch_Code": "302_1",
-    "Original_Name": "Sableye",
+    "Original_Name": "Mega_Sableye",
     "Name": "Mega Sableye",
     "Generation": 3,
     "Height": 0.5,
@@ -14922,7 +14922,7 @@
   {
     "No": 303,
     "Branch_Code": "303_1",
-    "Original_Name": "Mawile",
+    "Original_Name": "Mega_Mawile",
     "Name": "Mega Mawile",
     "Generation": 3,
     "Height": 1,
@@ -15082,7 +15082,7 @@
   {
     "No": 306,
     "Branch_Code": "306_1",
-    "Original_Name": "Aggron",
+    "Original_Name": "Mega_Aggron",
     "Name": "Mega Aggron",
     "Generation": 3,
     "Height": 2.2,
@@ -15202,7 +15202,7 @@
   {
     "No": 308,
     "Branch_Code": "308_1",
-    "Original_Name": "Medicham",
+    "Original_Name": "Mega_Medicham",
     "Name": "Mega Medicham",
     "Generation": 3,
     "Height": 1.3,
@@ -15322,7 +15322,7 @@
   {
     "No": 310,
     "Branch_Code": "310_1",
-    "Original_Name": "Manectric",
+    "Original_Name": "Mega_Manectric",
     "Name": "Mega Manectric",
     "Generation": 3,
     "Height": 1.8,
@@ -15722,7 +15722,7 @@
   {
     "No": 319,
     "Branch_Code": "319_1",
-    "Original_Name": "Sharpedo",
+    "Original_Name": "Mega_Sharpedo",
     "Name": "Mega Sharpedo",
     "Generation": 3,
     "Height": 2.5,
@@ -15922,7 +15922,7 @@
   {
     "No": 323,
     "Branch_Code": "323_1",
-    "Original_Name": "Camerupt",
+    "Original_Name": "Mega_Camerupt",
     "Name": "Mega Camerupt",
     "Generation": 3,
     "Height": 2.5,
@@ -16402,7 +16402,7 @@
   {
     "No": 334,
     "Branch_Code": "334_1",
-    "Original_Name": "Altaria",
+    "Original_Name": "Mega_Altaria",
     "Name": "Mega Altaria",
     "Generation": 3,
     "Height": 1.5,
@@ -17362,7 +17362,7 @@
   {
     "No": 354,
     "Branch_Code": "354_1",
-    "Original_Name": "Banette",
+    "Original_Name": "Mega_Banette",
     "Name": "Mega Banette",
     "Generation": 3,
     "Height": 1.2,
@@ -17602,7 +17602,7 @@
   {
     "No": 359,
     "Branch_Code": "359_1",
-    "Original_Name": "Absol",
+    "Original_Name": "Mega_Absol",
     "Name": "Mega Absol",
     "Generation": 3,
     "Height": 1.2,
@@ -17762,7 +17762,7 @@
   {
     "No": 362,
     "Branch_Code": "362_1",
-    "Original_Name": "Glalie",
+    "Original_Name": "Mega_Glalie",
     "Name": "Mega Glalie",
     "Generation": 3,
     "Height": 2.1,
@@ -18242,7 +18242,7 @@
   {
     "No": 373,
     "Branch_Code": "373_1",
-    "Original_Name": "Salamence",
+    "Original_Name": "Mega_Salamence",
     "Name": "Mega Salamence",
     "Generation": 3,
     "Height": 1.8,
@@ -18402,7 +18402,7 @@
   {
     "No": 376,
     "Branch_Code": "376_1",
-    "Original_Name": "Metagross",
+    "Original_Name": "Mega_Metagross",
     "Name": "Mega Metagross",
     "Generation": 3,
     "Height": 2.5,
@@ -18602,7 +18602,7 @@
   {
     "No": 380,
     "Branch_Code": "380_1",
-    "Original_Name": "Latias",
+    "Original_Name": "Mega_Latias",
     "Name": "Mega Latias",
     "Generation": 3,
     "Height": 1.8,
@@ -18682,7 +18682,7 @@
   {
     "No": 381,
     "Branch_Code": "381_1",
-    "Original_Name": "Latios",
+    "Original_Name": "Mega_Latios",
     "Name": "Mega Latios",
     "Generation": 3,
     "Height": 2.3,
@@ -18762,7 +18762,7 @@
   {
     "No": 382,
     "Branch_Code": "382_1",
-    "Original_Name": "Kyogre",
+    "Original_Name": "Primal_Kyogre",
     "Name": "Primal Kyogre",
     "Generation": 3,
     "Height": 9.8,
@@ -18842,7 +18842,7 @@
   {
     "No": 383,
     "Branch_Code": "383_1",
-    "Original_Name": "Groudon",
+    "Original_Name": "Primal_Groudon",
     "Name": "Primal Groudon",
     "Generation": 3,
     "Height": 5,
@@ -18922,7 +18922,7 @@
   {
     "No": 384,
     "Branch_Code": "384_1",
-    "Original_Name": "Rayquaza",
+    "Original_Name": "Mega_Rayquaza",
     "Name": "Mega Rayquaza",
     "Generation": 3,
     "Height": 10.8,
